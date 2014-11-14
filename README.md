@@ -14,7 +14,7 @@ Your app's users should be able to:
     * a departure date
     * a return date
 
-* Add **Waypoint**s to an **Itinerary** with:
+* Add **Waypoints** to an **Itinerary** with:
   * required fields:
     * a location
     * a name
