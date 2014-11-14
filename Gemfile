@@ -27,6 +27,44 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
+# bootstrap
+gem 'twitter-bootstrap-rails'
+# better, cleaner forms
+gem 'simple_form'
+
+group :test, :development do
+  # rspec for rails
+  gem 'rspec-rails'
+  # fill stuff in in forms and stuff
+  gem 'capybara'
+  # open a page after a test
+  gem 'launchy'
+  # will let us run tests automatically
+  gem 'guard-rspec'
+  # notifications
+  gem 'rb-fsevent' if `uname` =~ /Darwin/
+  # make reusable model factories for your tests
+  gem 'factory_girl_rails'
+end
+
+group :test do
+  # all sorts of great matchers for rspec
+  gem 'shoulda-matchers'
+end
+
+group :development do
+  # just awesome-looking errors
+  gem 'better_errors'
+  # let's be able to debug with pry in rails
+  gem 'pry-rails'
+  # omg. this is better than butter on sliced bread.
+  gem 'pry-byebug'
+  # quite down the asset pipeline nonsense in the rails log
+  gem 'quiet_assets'
+
+  gem 'awesome_print', :require => 'ap'
+end
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
@@ -43,3 +81,4 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
