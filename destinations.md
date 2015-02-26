@@ -1,3 +1,6 @@
 - buffalo, ny
 - chicago, il
 - san francisco, ca
+- brooklyn, ny
+- berkeley, ca
+- kharkov, ua
