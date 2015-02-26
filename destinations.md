@@ -1,6 +1,7 @@
 - buffalo, ny
-- chicago, il
+- aurora, il
 - san francisco, ca
 - brooklyn, ny
 - berkeley, ca
 - kharkov, ua
+- moscow, ru
