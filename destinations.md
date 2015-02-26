@@ -4,3 +4,4 @@
 - brooklyn, ny
 - berkeley, ca
 - kharkov, ua
+- los angeles, ca
