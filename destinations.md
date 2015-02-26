@@ -5,3 +5,4 @@
 - berkeley, ca
 - kharkov, ua
 - los angeles, ca
+- maui, hi
