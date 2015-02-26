@@ -5,3 +5,5 @@
 - berkeley, ca
 - kharkov, ua
 - los angeles, ca
+- singapore, sg
+- bangkok, th
