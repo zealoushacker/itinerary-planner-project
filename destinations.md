@@ -1,8 +1,10 @@
 - buffalo, ny
-- chicago, il
+- aurora, il
 - san francisco, ca
 - brooklyn, ny
 - berkeley, ca
 - kharkov, ua
 - los angeles, ca
+- singapore, sg
+- bangkok, th
 - maui, hi
