@@ -13,5 +13,5 @@ planets
 =======
 
 - mars
-- pluto
+- pluto, is an awesome planet
 - venus
