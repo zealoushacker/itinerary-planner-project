@@ -13,5 +13,5 @@ planets
 =======
 
 - mars
-- pluto
+- pluto is a pretty shitty planet; it's not even a lanet
 - venus
