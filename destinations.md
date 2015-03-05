@@ -8,3 +8,10 @@
 - singapore, sg
 - bangkok, th
 - maui, hi
+
+planets
+=======
+
+- mars
+- pluto
+- venus
